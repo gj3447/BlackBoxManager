@@ -27,3 +27,10 @@ OCR 할때 전처리작업이 들어가는데
 자동으로 사진별로 동일한 전처리작업를 하는게 아닌
 각각 사진에따라 노이즈 제거, 선명하게 하는 작업을
 수작업으로 직접 보고 맞춰가면서 OCR의 텍스트 인식률을 더욱 높일수 있다.
+## License
+
+**MetaHumotonic License 1.2** — [LICENSE](LICENSE); [scope, prior grants and third-party notices](LICENSE-NOTICE.md).
+
+지정한 하드웨어의 접근권한과 전체 관리 권한을 합의한 명세서에 따라 공유하고, **CHU의 일부가 된다**는 참여 원칙을 적용합니다. 실제 접근에는 별도 승인이 필요합니다.
+
+Source-available; not OSI-approved. Existing grants and separately licensed material remain valid.
